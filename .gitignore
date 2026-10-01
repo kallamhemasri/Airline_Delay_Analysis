@@ -1,0 +1,5 @@
+data/flights.csv
+data/flights_cleaned.csv
+
+__pycache__/
+*.pyc

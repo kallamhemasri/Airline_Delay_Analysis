@@ -1,0 +1,15 @@
+airline_code,airline_name,total_flights,delayed_flights,delayed_percentage,cancelled_flights,cancellation_rate,diverted_flights,diversion_rate
+NK,Spirit Air Lines,117379,56887,48.46,2004,1.71,182,0.16
+F9,Frontier Airlines Inc.,90836,41232,45.39,588,0.65,158,0.17
+HA,Hawaiian Airlines Inc.,76272,30179,39.57,171,0.22,60,0.08
+VX,Virgin America,61903,24180,39.06,534,0.86,121,0.2
+US,US Airways Inc.,198715,76285,38.39,4067,2.05,425,0.21
+B6,JetBlue Airways,267048,101998,38.19,4276,1.6,730,0.27
+OO,Skywest Airlines Inc.,588353,222435,37.81,9960,1.69,1579,0.27
+WN,Southwest Airlines Co.,1261855,470767,37.31,16043,1.27,3409,0.27
+EV,Atlantic Southeast Airlines,571977,213217,37.28,15231,2.66,1994,0.35
+UA,United Air Lines Inc.,515723,186227,36.11,6573,1.27,1388,0.27
+MQ,American Eagle Airlines Inc.,294632,103505,35.13,15025,5.1,816,0.28
+AA,American Airlines Inc.,725984,252191,34.74,10919,1.5,2130,0.29
+AS,Alaska Airlines Inc.,172521,56953,33.01,669,0.39,413,0.24
+DL,Delta Air Lines Inc.,875881,250840,28.64,3824,0.44,1782,0.2
